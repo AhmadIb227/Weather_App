@@ -1,13 +1,3 @@
-<p align="center">
-<img src="https://github.com/jhomlala/feather/blob/master/media/logo.png" width="250px">
-</p>
-
-# :sunny: Feather
-[![Build Status](https://app.bitrise.io/app/555fd3365953cd2f.svg?token=nPJStq5nJhmQDlgdtIzSqw)](https://github.com/jhomlala/feather)
-[![Flutter Awesome](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter)
-
-
-Beautiful Flutter weather application. Entirely written in Dart and Flutter. Application is ready for Android and iOS.
 
 ### :camera: Media
 <p align="center">
